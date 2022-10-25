@@ -1,4 +1,5 @@
-# Piscine-42-Nice
-Ma piscine chez 42 
+# 42's PISCINE
 
-Some of the most usefull exercices we made during our piscine at 42 School
+HERE YOU WILL FIND SOME OF THE MOST USEEFULL EXERCICES WE MADE DURING OUR PISCINE AT 42 SCHOOL.
+
+
