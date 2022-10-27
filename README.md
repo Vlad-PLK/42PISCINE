@@ -21,4 +21,6 @@ Here's the list of all exercices I push in this repo :
  - **Strcat** : Strcat, strdup, strlen, strcpy... You will do a lot of those during your C programming journey. It always comes to looping throw a string until you find that '\0' with some more things depending on what function you want to recreate.
  - **Strstr** : Basically : find a _little string_ in a _big string_. First of all find the first char of little str and try to find the all little str.
  It's all about looping throw strings until you find the character you want or not.
- - 
+ - **Union** : A little harder exercice I got during an exam, just remember to always split big problems into light issues and you will be good to go.
+ - **Atoi** : ASCII TO INTEGER. You've already done the other way with putnbr. I'll give you one tip : when you want to go from ascii to integer you will need to substract 'O' (48) to your actual ascii number to have it with the integer version. 
+Example : '5' in ascii table -> 53, '0' in ascii table -> 48 53 - 48 = 5. Here you go you successfuly converted an ascii to an integer. Now try to do the same thing with '765341'. Just remember the max int in ascii table is 9 ;).
