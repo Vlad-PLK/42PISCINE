@@ -1,11 +1,11 @@
 # 42's PISCINE
 
-HERE YOU WILL FIND SOME OF THE MOST USEEFULL EXERCICES WE MADE DURING OUR PISCINE AT 42 SCHOOL.
+### Here you will find some of the most useefull exercices we made during our piscine at 42 school. ###
 
 Here's the list of all exercices I push in this repo : 
-  - Print Comb : a simple exercice about learning while loops
-  - Print Comb 02 : same thing but with more diffculty
-  - Putnbr : one of the most basic BUT important exerice.
+  - **Print Comb** : a simple exercice about learning while loops
+  - **Print Comb 02** : same thing but with more diffculty
+  - **Putnbr** : one of the most basic BUT important exerice.
              DO NOT SKIP OR GO DIRECTLY FOR THE SOLUTION FOR THIS ONE.
              How to display an int with write function ?
              Think about recursion and euclidian division...
